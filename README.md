@@ -1,3 +1,3 @@
-# daily_leetcode
+# daily_leetcode 🦁
 collect my answers to leetcode
 
