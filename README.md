@@ -1,4 +1,2 @@
-# Leetcode_Challenge
-collect my answers to leetcode⛽️⛽️⛽️
-
-mainly in python 🐍
+# Leetcode Challenge
+collect answers
